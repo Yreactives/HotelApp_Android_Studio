@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="280dp">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="280dp"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            android:id="@+id/imageView1"
+            android:background="#999"
+            />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="8dp"
+            android:background="#a00"
+            android:layout_gravity="top|right"
+            android:layout_marginTop="16dp"
+            android:layout_marginRight="16dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="$74"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:layout_marginBottom="4dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Per Night"
+                android:textSize="13sp"
+                android:textColor="#fff"/>
+        </LinearLayout>
+    </FrameLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="The Beach is but a short walk away"
+                android:textSize="24sp"
+                android:gravity="center"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                android:gravity="center"
+                android:text="Lorem ipsum dolor sit amet. Eos nisi aspernatur et quibusdam dolore quo necessitatibus dignissimos eos laudantium dicta ab pariatur mollitia aut inventore quos. Aut adipisci placeat ex commodi maiores est sequi consectetur a sunt adipisci. Eum quae repudiandae ab debitis inventore id cupiditate architecto vel molestiae impedit et fugit quasi in numquam reiciendis ut minima quis. Et quia provident non corrupti sequi aut molestiae aperiam quo recusandae voluptas aut magnam obcaecati At itaque voluptate. Qui ipsam commodi quo excepturi suscipit ut laboriosam odio a dolore explicabo ut sequi suscipit. Aut deserunt magnam est repudiandae omnis vel laborum consectetur ut iure quasi est incidunt voluptate. Ut molestias cupiditate et sint nihil qui magnam iusto sit sapiente sunt eum molestiae voluptas in exercitationem optio ut voluptas atque. 33 perspiciatis autem non recusandae quam eum galisum alias in dolor sequi est consequatur dolorem est omnis quia eum nihil consequuntur? Aut quia culpa eum obcaecati vitae sit maxime perspiciatis eos numquam dolorem. Eum consequatur sint qui accusamus odit est corrupti harum. Aut velit enim ut quasi repudiandae aut consequatur quaerat. Est dolores quis et dolores deserunt sed nemo iste id odio saepe! Vel error cupiditate cum voluptate quia est dolor assumenda in enim magnam. Ut praesentium cupiditate At vero doloribus 33 cumque minus in perspiciatis sapiente aut eaque galisum et consequatur assumenda sed illum laudantium. Non nisi quaerat aut consequatur voluptatum non ratione autem sit beatae consequatur id commodi accusantium aut suscipit sint est repudiandae consectetur. Ex dolorum ipsam vel sint aliquid et saepe quam quo praesentium atque aut suscipit molestiae qui nesciunt corrupti est facere labore. Qui dolore laborum et nihil sequi ex velit earum vel officiis dolores? Qui galisum assumenda aut necessitatibus deserunt aut totam quis est quibusdam facere et assumenda dolorem. Nam eligendi quibusdam hic nostrum dolorem vel quia autem. Et ipsam molestiae vel exercitationem voluptatem non magnam delectus nam Quis dolore ut voluptas culpa eum praesentium natus a quam voluptatem. Non tenetur Quis id voluptatem asperiores et voluptas dolor? Aut tempora nemo qui corrupti repellendus et deleniti dolore non laboriosam dolor vel quasi fugit. Eum itaque dolorem 33 officiis culpa a quia exercitationem. Rem possimus alias et facere dolores nam illum facere At eveniet necessitatibus et voluptate nesciunt ut rerum odit sit voluptas odio. Quo excepturi illum eum unde inventore est asperiores doloribus. Aut veritatis voluptas sit velit culpa et amet recusandae qui consectetur corrupti ad maiores quam. A similique explicabo et officiis pariatur ut voluptas cupiditate et aliquid soluta. Et unde molestias aut quisquam modi a eligendi cumque in dolor enim eum adipisci impedit. Sit blanditiis accusamus eum suscipit dolores qui temporibus obcaecati. Ut recusandae dolorum sit quia ipsum qui minus reprehenderit. Non debitis rerum quo sunt ipsam quo temporibus optio et sunt fugiat sed deserunt omnis. Aut amet consectetur est ipsa amet eos voluptate ducimus aut accusamus doloremque. Vel voluptate reprehenderit quo voluptas neque et reprehenderit iusto. Aut pariatur illum ab laboriosam iste aut dolorum temporibus aut omnis corporis eos dicta Quis ut vero dolorem. Eum maxime quia eum quasi impedit nam repellat placeat qui minima fugiat est officia reiciendis et magni animi qui perferendis laboriosam! Eum assumenda dolor non laboriosam dignissimos ut saepe assumenda aut internos maxime quo fugit architecto! Vel officiis reiciendis est omnis consequuntur et dolores soluta. Sed magnam natus et galisum illo id velit eligendi non veniam doloremque sit facilis quia. Ab perspiciatis esse ad corrupti ducimus id voluptatibus delectus! Rem voluptatem sunt sit quas provident aut debitis adipisci vel mollitia quod? Eos quod Quis ut repellat distinctio et laborum facere! Et assumenda quos aut odit officiis aut molestiae enim et nihil explicabo. Vel autem sint aut debitis eius qui delectus commodi. Aut adipisci ratione ab optio temporibus non itaque recusandae in Quis dolore id molestiae maiores? Et beatae magni ea beatae eveniet est quae rerum est voluptatem tenetur in voluptas culpa? Qui porro nobis eum sunt ipsam hic dolores distinctio eum sint voluptas ab sunt corporis ex doloremque libero in possimus dolor. Quo galisum ullam nam autem deleniti aut reprehenderit aspernatur! Ut impedit voluptatem sit nemo cumque ex tempore explicabo est omnis voluptates. Et velit eius qui porro blanditiis ea incidunt voluptas ut esse perferendis et alias dolore est labore enim? Et quas eligendi aut temporibus aspernatur eos internos nihil qui cupiditate rerum ut ullam amet qui eaque repudiandae et quasi molestias. Qui perferendis laboriosam ea magni minima eum fuga maxime eum mollitia deserunt eos quam numquam aut voluptatem velit. Et adipisci vero eum magnam inventore aut doloribus suscipit ut adipisci iure in consequatur dolore qui odio corrupti et voluptatem debitis. Ea quod ipsum in consequatur inventore qui pariatur itaque ut magnam incidunt aut possimus architecto ut repudiandae molestias! Sed dolor tempore sed dicta maiores qui accusamus voluptas hic reiciendis galisum qui quia dolorem. Est nihil quas sed galisum repudiandae qui autem internos sed modi sunt aut sunt voluptatum. Aut quibusdam nulla ut omnis molestiae aut eveniet doloremque sed facere iure et molestiae officiis et accusamus facilis sit quibusdam impedit. Sed vero laudantium aut iste debitis ut libero ipsum qui ratione dolorem. Id quas iure est quod alias ut voluptas modi? At quidem voluptas cum ipsa quia quo quasi iusto sit explicabo rerum. 33 repudiandae sint non voluptas impedit eum mollitia accusantium eos molestias quam aut praesentium molestias et voluptatem atque. Ut veniam galisum est dolor magnam non aspernatur quod aut voluptatum ipsa nam quia autem 33 ducimus necessitatibus aut placeat quae. Aut consequuntur magnam hic voluptas alias ut rerum velit ea laudantium asperiores ut architecto culpa. Est temporibus neque At cumque itaque est sequi rerum. In distinctio galisum eum aperiam Quis ea ratione ullam ut possimus numquam. Id omnis porro aut repellendus ullam eum similique veritatis in ipsam ipsa ut voluptas quod! Est totam dolorum nam vitae delectus eum exercitationem dolores 33 commodi placeat. Ut iusto sint qui consequuntur optio aut minima reprehenderit sed eius repellat aut explicabo dolorem. Ut unde consequatur sed voluptate animi eos tempore voluptatem non quibusdam explicabo aut itaque impedit sed rerum dicta qui explicabo similique. 33 repellendus illum et quas odit vel nihil iusto? In voluptatem deleniti non sapiente minima aut voluptas dicta est voluptatem doloribus. Aut accusamus molestias id explicabo consequatur sit debitis magni."
+                />
+        </LinearLayout>
+    </ScrollView>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/material_dynamic_primary0"
+        android:textColor="#fff"
+        android:text="Book Now!!!"/>
+
+</LinearLayout>
